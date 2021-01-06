@@ -1,3 +1,3 @@
 # Anomaly Detection Exercises
 
-Hi! This repo contains exercises from the Anomaly Detection Module.
+Hi There! This repo contains exercises from the Anomaly Detection Module.
